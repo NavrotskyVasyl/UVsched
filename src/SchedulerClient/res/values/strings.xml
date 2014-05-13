@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SchedulerClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginTitle">Аутентифікація</string>
+    <string name="loginWndInfo">Введіть свій логін і пароль і нажміть &quot;Ввійти&quot; якщо ви уже зареєстровані або нажміть &quot;Реєстрація&quot; для реєстрації і входу.</string>
+    <string name="user_login">Логін</string>
+    <string name="user_password">Пароль</string>
+    <string name="login_button">Ввійти</string>
+    <string name="register_button">Реєстрація</string>
+    <string name="title_activity_groups">Список груп</string>
+    <string name="groups_section_all">Усі</string>
+    <string name="groups_section_favorite">Вибрані</string>
+    <string name="groups_section_rescent">Останні</string>
+    <string name="groups_section_info">Про групи</string>
+    <string name="login_alert_text">Вхід/Реєстрація не виконані! Якщо Ви хотіли зареєструватися, то введений вами логін уже зайнятий. Якщо Ви хотіли ввійти в систему, то введений вами логін і/або пароль є невірний! Перевірте введені вами дані!</string>
+    <string name="login_alert_title">Помилка входу</string>
+    <string name="groups_info_title">Про групи</string>
+    <string name="groups_info_tb1">Групи створені для того, щоб обєднати разом всю небхідну інформацію про навчальний процес вашої навчальної групи.</string>
+    <string name="groups_info_tb2">При складанні розкладу ви для кожної пари вказуєте аудиторію, назву предмету та викладача. Для того щоб не вводити всі ці дані кожного разу заново, уже раніше використана інформація буде зберігатися і буде доступна для всіх користувачів групи. Таким чином ви економите час.</string>
+    <string name="groups_info_tb3">У межах групи Ви можете ділитися потрібною інформацією про навчальний процес із своїми одногрупниками - розкладами, оголошеннями, тощо. </string>
+    <string name="groups_info_tb4">Групи бувають двох типів - відкриті і закриті. Відкриті групи доступні для перегляду кожному зареєстрованому користувачу. Для перегляду закритих груп необхідно знати пароль доступу. </string>
+    <string name="action_create_group">Створити нову групу</string>
+    <string name="title_activity_create_group">Створити нову групу</string>
+    
+    <string name="new_group_name">Назва нової групи:</string>
+    <string name="new_group_viewp">Пароль для перегляду (можу бути пустий):</string>
+    <string name="new_group_editp">Пароль для редагування:</string>
+    <string name="new_group_button">Створити нову групу</string>
+    <string name="new_group_help">Введіть назву нової групи, а також два паролі. Пароль для перегляду є необовязковий і у випадку коли він пустий група буде доступна для перегляду всім користувачам. Інакше групу зможуть переглянути лише користувачі, які знають пароль. Пароль редагування захищає групу він редагування даних. Тільки користувачі які знають пароль редагування можу проводити зміни в розкладі.</string>
+
+</resources>
