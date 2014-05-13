@@ -10,7 +10,7 @@ UVsched
 
 Діаграма класів для клієнта і сервера відповідно:
 
-img 1
+![alt tag] (https://github.com/Unit01101/UVsched/blob/master/UML/client_uml.png)
 
 img 2
 
