@@ -1,6 +1,6 @@
 UVsched
 =====
-######Розклад, розрахований на студентів. 
+#####Розклад, розрахований на студентів. 
 Проект включає в себе:  
   -Aндроід-клієнт;     
   -Сервер (зараз теж на Андроіді).  
@@ -8,11 +8,14 @@ UVsched
 Основна ідея - самоорганіцація студентів, контроль розкладу своїми силами.
 Оскільки часто виникає ситуація, коли отримати інформацію про свої пари досить важко, ваш телефон завжди зможе вас проінформувати. 
 
-Діаграма класів для клієнта і сервера відповідно:
+Діаграма класів:  
+######Kлієнт:  
 
-![alt tag](https://raw.githubusercontent.com/Unit01101/UVsched/master/UML/client_uml.png)
+![alt tag](https://raw.githubusercontent.com/Unit01101/UVsched/master/UML/client_uml.png)    
+======
+######Сервер:  
 
-![alt tag](https://raw.githubusercontent.com/Unit01101/UVsched/master/UML/server_uml.png)
+![alt tag](https://raw.githubusercontent.com/Unit01101/UVsched/master/UML/server_uml.png)  
 
 
 =======
